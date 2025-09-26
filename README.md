@@ -30,7 +30,6 @@ Interactive command-line interface for user input.
 Clone this repository:
 
 git clone https://github.com/StudentSaif/Basic-Calculator.git
-cd simple-calculator
 
 
 Run the program:
